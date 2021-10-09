@@ -1,0 +1,7 @@
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
+Docker is a popular open-source project written in go and developed by Dotcloud (A PaaS Company). It is basically a container engine that uses the Linux Kernel features like namespaces and control groups to create containers on top of an operating system.
+
+https://devopscube.com/what-is-docker/
